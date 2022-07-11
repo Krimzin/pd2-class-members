@@ -1,0 +1,33 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		camera
+		cut
+		extension
+		input
+		key
+		make_camera
+		position_as
+		release_camera
+		remove_update_callback
+		set_camera
+		set_extension
+		set_update_callback
+		shaker
+		tostring
+		transition_to_camera
+		update_callback_set_camera_vectors
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

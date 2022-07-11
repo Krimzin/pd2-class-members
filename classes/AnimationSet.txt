@@ -1,0 +1,28 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		animatable_set_name
+		animation_position
+		animation_rotation
+		animation_total_displacement
+		animation_total_displacement_amount
+		animation_total_duration
+		extension
+		has_animation
+		key
+		set_extension
+		tostring
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

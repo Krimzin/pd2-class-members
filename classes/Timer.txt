@@ -1,0 +1,24 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		delta_time
+		extension
+		key
+		reset
+		set_extension
+		time
+		tostring
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

@@ -1,0 +1,30 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		extension
+		key
+		light_extrusion_distance
+		material
+		reference_fov
+		set_extension
+		set_light_extrusion_distance
+		set_reference_fov
+		set_snap_to_texel_center
+		set_visibility
+		snap_to_texel_center
+		tostring
+		visibility
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

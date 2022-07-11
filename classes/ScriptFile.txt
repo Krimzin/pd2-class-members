@@ -1,0 +1,30 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		at_end
+		close
+		extension
+		gets
+		key
+		path
+		print
+		printf
+		puts
+		read
+		set_extension
+		tostring
+		write
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

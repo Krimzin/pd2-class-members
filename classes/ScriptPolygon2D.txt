@@ -1,0 +1,32 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		closest_edge_point_to
+		distance_to_edge
+		extension
+		insert
+		inside
+		key
+		maxn
+		remove
+		set_extension
+		to_string
+		to_table
+		tostring
+PRIVATE:
+	VARIABLES:
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__call
+		__eq
+		__gc
+		__index
+		__len
+		__newindex
+		__tostring

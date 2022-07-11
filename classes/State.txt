@@ -1,0 +1,32 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		animations
+		extension
+		init
+		is_stable_for_loading
+		key
+		modifiers
+		name
+		set_extension
+		tostring
+		transition
+		transition_names
+		transition_redirects
+		type
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring
+		_not_stable_for_loading
+		_set_stable_for_loading

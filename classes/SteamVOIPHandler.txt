@@ -1,0 +1,32 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		add_receiver
+		alive
+		close
+		extension
+		get_voice_receivers_playing
+		is_voice_receiver_muted
+		key
+		mute_voice_receiver
+		open
+		remove_receiver
+		set_extension
+		set_out_volume
+		start_recording
+		stop_recording
+		tostring
+		update
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

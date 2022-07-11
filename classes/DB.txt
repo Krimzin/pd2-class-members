@@ -1,0 +1,33 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		create_entry
+		extension
+		has
+		is_bundled
+		key
+		load_node
+		mods
+		open
+		open_with_properties
+		reload_extra_overrides
+		reload_override_mods
+		remove_entry
+		set_extension
+		set_mod_enabled
+		tostring
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring
+		_has

@@ -1,0 +1,28 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		extension
+		from_binary
+		from_custom_xml
+		from_generic_xml
+		from_xml
+		key
+		set_extension
+		to_binary
+		to_custom_xml
+		to_generic_xml
+		tostring
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

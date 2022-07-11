@@ -1,0 +1,33 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		clear_interest_keys
+		clear_lobby_filter_slots
+		clear_lobby_filters
+		dummy
+		extension
+		key
+		lobbies
+		refresh
+		set_distance_filter
+		set_extension
+		set_interest_keys
+		set_lobby_filter
+		set_lobby_filter_slots
+		set_max_lobby_return_count
+		tostring
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__call
+		__eq
+		__gc
+		__tostring

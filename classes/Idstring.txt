@@ -1,0 +1,31 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		free
+		id
+		key
+		make_raw
+		raw
+		save
+		t
+		temp
+		tostring
+		untemp
+PRIVATE:
+	VARIABLES:
+		__free
+		__index
+		__properties
+		__property_writers
+		__temp
+		__temp_next
+	FUNCTIONS:
+		__call
+		__concat
+		__eq
+		__newindex
+		__tostring

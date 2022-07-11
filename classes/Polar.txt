@@ -1,0 +1,36 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		free
+		save
+		temp
+		to_vector
+		to_vector_with_reference
+		tostring
+		untemp
+		with_pitch
+		with_r
+		with_spin
+PRIVATE:
+	VARIABLES:
+		__free
+		__properties
+		__property_writers
+		__temp
+		__temp_next
+	FUNCTIONS:
+		__add
+		__call
+		__div
+		__eq
+		__index
+		__le
+		__lt
+		__mul
+		__newindex
+		__sub
+		__tostring

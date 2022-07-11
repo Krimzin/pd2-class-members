@@ -1,0 +1,33 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		create_linked_workspace
+		create_object_workspace
+		create_scaled_screen_workspace
+		create_screen_workspace
+		create_sub_screen_workspace
+		create_world_workspace
+		destroy_all_workspaces
+		destroy_workspace
+		extension
+		height
+		key
+		set_extension
+		texture_size
+		tostring
+		width
+		workspaces
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

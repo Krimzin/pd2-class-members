@@ -1,0 +1,30 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		check_access
+		delay_time
+		end_nav_segment
+		end_position
+		extension
+		is_obstructed
+		key
+		script_data
+		set_delay_time
+		set_extension
+		start_nav_segment
+		start_position
+		tostring
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

@@ -1,0 +1,28 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		extension
+		get_stat
+		get_stat_float
+		has_achievement
+		has_stat
+		has_stat_float
+		key
+		refresh
+		set_extension
+		state
+		tostring
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

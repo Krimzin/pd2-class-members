@@ -1,0 +1,34 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		any_input
+		controller
+		controller_index
+		create_virtual_controller
+		destroy_all_virtual_controllers
+		destroy_virtual_controller
+		edit_key
+		extension
+		key
+		keyboard
+		mouse
+		num_controllers
+		num_real_controllers
+		set_extension
+		stop_all
+		text
+		tostring
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

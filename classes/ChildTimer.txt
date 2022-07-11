@@ -1,0 +1,33 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		delta_time
+		extension
+		is_paused
+		key
+		max_step
+		min_step
+		multiplier
+		pause
+		play
+		reset
+		set_extension
+		set_max_step
+		set_min_step
+		set_multiplier
+		time
+		tostring
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

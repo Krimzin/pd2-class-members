@@ -1,0 +1,26 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		extension
+		key
+		list
+		lookup
+		lookup_specular_multiplier
+		platform_intensity_scale
+		reverse_lookup
+		set_extension
+		tostring
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

@@ -1,0 +1,32 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		extension
+		id
+		key
+		key_value
+		member_limit
+		num_members
+		owned
+		owners_id
+		owners_name
+		request_data
+		server_details
+		set_extension
+		set_key_value
+		setup_callback
+		tostring
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

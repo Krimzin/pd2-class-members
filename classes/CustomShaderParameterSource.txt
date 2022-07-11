@@ -1,0 +1,32 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		extension
+		get_variable
+		is_playing
+		key
+		pause
+		play
+		playing_speed
+		set_extension
+		set_time
+		set_variable
+		stop
+		time
+		tostring
+		variable_exists
+		variables
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

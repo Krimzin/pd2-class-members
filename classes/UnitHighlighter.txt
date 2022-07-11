@@ -1,0 +1,28 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		add_config
+		add_unit
+		add_unit_spec
+		alive
+		extension
+		key
+		remove_unit
+		remove_unit_by_name
+		set_config_name_filter
+		set_extension
+		set_name_filter
+		tostring
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

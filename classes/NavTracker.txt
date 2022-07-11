@@ -1,0 +1,31 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		check_visibility
+		extension
+		field_m_position
+		field_position
+		field_z
+		key
+		lost
+		m_position
+		move
+		nav_segment
+		obstructed
+		position
+		set_extension
+		tostring
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

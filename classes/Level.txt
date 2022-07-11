@@ -1,0 +1,31 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		add_data
+		add_unit
+		alive
+		create
+		data
+		destroy
+		extension
+		key
+		layers
+		load
+		new
+		set_extension
+		set_layer
+		tostring
+		unit_data
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

@@ -1,0 +1,33 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		add_explosion
+		add_ray
+		alive
+		enabled
+		extension
+		key
+		set_direction
+		set_enabled
+		set_extension
+		set_propagation_speed_cm_s
+		set_speed_beaufort
+		set_speed_cm_s
+		set_speed_m_s
+		set_tilt
+		stop
+		tostring
+		wind_at
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

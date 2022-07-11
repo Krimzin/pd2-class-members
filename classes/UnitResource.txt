@@ -1,0 +1,33 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		anim
+		extension
+		key
+		material_config
+		model
+		model_script_data
+		name
+		network_sync
+		radius
+		script_data
+		sequence_manager_filename
+		set_extension
+		slot
+		tostring
+		type
+		unit_dependencies
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

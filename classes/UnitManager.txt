@@ -1,0 +1,30 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		extension
+		get_all_units
+		get_units
+		key
+		set_extension
+		set_slot_dual_limited
+		set_slot_infinite
+		set_slot_limited
+		set_slot_timed
+		set_slot_timed_limited
+		slot_size
+		tostring
+		unit_highlighter
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

@@ -1,0 +1,31 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		blend
+		extension
+		key
+		set_extension
+		set_object
+		set_target_position
+		set_target_rotation
+		set_target_x
+		set_target_x_look_at
+		set_target_y
+		set_target_y_look_at
+		set_target_z
+		set_target_z_look_at
+		tostring
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

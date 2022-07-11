@@ -1,0 +1,28 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		extension
+		get_post_processor_effect
+		get_post_processor_effect_name
+		get_rect
+		key
+		set_LOD_active
+		set_dimensions
+		set_extension
+		set_post_processor_effect
+		tostring
+		update
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

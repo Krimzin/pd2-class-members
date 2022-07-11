@@ -1,0 +1,31 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		add
+		alive
+		extension
+		ip_at_index
+		is_client
+		key
+		name_at_index
+		num_peers
+		peer_at_index
+		ping_at_index
+		protocol_at_index
+		remove
+		set_extension
+		to_string
+		tostring
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

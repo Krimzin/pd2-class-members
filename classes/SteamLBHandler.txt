@@ -1,0 +1,27 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		extension
+		key
+		register_entries_callback
+		register_mappings
+		register_mappings_done_callback
+		register_storage_done_callback
+		request_lb_score
+		request_storage
+		set_extension
+		tostring
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

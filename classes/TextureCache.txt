@@ -1,0 +1,28 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		abort_all_script_requests
+		alive
+		check_textures_loaded
+		extension
+		key
+		request
+		retrieve
+		set_LOD_streaming_enabled
+		set_extension
+		set_streaming_enabled
+		tostring
+		unretrieve
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

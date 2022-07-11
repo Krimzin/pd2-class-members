@@ -1,0 +1,30 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		alive
+		counter_calls
+		counter_report
+		counter_time
+		extension
+		key
+		profiler_report
+		report_frame
+		reset
+		set_extension
+		start
+		step
+		stop
+		tostring
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

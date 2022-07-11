@@ -1,0 +1,36 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		abort
+		alive
+		directory_name
+		extension
+		iterate_savegame_slots
+		key
+		load
+		remove
+		save
+		save_extension
+		save_path
+		save_prefix
+		set_directory_name
+		set_extension
+		set_max_nr_slots
+		set_save_extension
+		set_save_path
+		set_save_prefix
+		set_verbose
+		tostring
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

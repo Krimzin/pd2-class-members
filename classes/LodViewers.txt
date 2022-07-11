@@ -1,0 +1,29 @@
+PUBLIC:
+	VARIABLES:
+		FREEZE_SAMPLING
+		IGNORE_SAMPLING
+		NORMAL_SAMPLING
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		add_viewer
+		alive
+		extension
+		key
+		remove_viewer
+		set_extension
+		set_sampling_mode
+		set_viewer_position
+		set_viewer_rotation
+		tostring
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring

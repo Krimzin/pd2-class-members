@@ -1,0 +1,30 @@
+PUBLIC:
+	VARIABLES:
+		script_reference
+		script_value
+		type_id
+		type_name
+	FUNCTIONS:
+		activate
+		alive
+		delete
+		extension
+		key
+		link
+		link_occlusion
+		link_orientation
+		link_position
+		set_extension
+		set_occlusion
+		set_orientation
+		set_position
+		tostring
+PRIVATE:
+	VARIABLES:
+		__index
+		__properties
+		__property_writers
+	FUNCTIONS:
+		__eq
+		__gc
+		__tostring
