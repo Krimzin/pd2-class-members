@@ -41,6 +41,7 @@ PUBLIC:
 		camera
 		can_activate_mover
 		can_activate_mover_isolated
+		carry_data
 		character_damage
 		children
 		clear_body_activation_callbacks
@@ -67,6 +68,7 @@ PUBLIC:
 		enable_constraint
 		enable_constraint_group
 		enabled
+		equipment
 		event_listener
 		extension
 		extensions
@@ -201,6 +203,7 @@ PUBLIC:
 		update_render_templates
 		updated
 		vehicle
+		vehicle_driving
 		velocity
 		visibility
 		visible
