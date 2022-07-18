@@ -1,3 +1,4 @@
+-- Requires https://github.com/Krimzin/pd2-krimzin-core
 KrimzinCore.require(KrimzinCore.MOD_PATH .. "lua/core/Debug.lua")
 
 local function write_engine_class_members(path_format)
